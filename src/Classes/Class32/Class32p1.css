@@ -1,0 +1,23 @@
+
+
+.todom{
+    width: 100%;
+    height: 10vh;
+
+}
+
+
+.todo{
+    width: 160px;
+    display: flex;
+    text-align: center;
+    background-color: chocolate;
+    gap: 10px;
+
+}
+
+.todo p{
+    font-size: 15px;
+    margin: 0 auto;
+    padding: 15px;
+}
